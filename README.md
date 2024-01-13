@@ -1,4 +1,6 @@
-# Data Scientist | Education Policy 
+# Sam Newman
+
+##### Data Analyst | Education Policy 
 
 ### Main Projects
 
