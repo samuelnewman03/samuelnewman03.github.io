@@ -5,9 +5,10 @@
 ## Main Projects 
 ### Qualitative Projects 
 -Thematic analysis of survey data. Cleaned, analyized and visualized data (n=269) for a university. 
-[Code](link)
+[Code](https://github.com/samuelnewman03/Portfolio-Projects/blob/main/Qualitative%20Project_Program%20Strengths.Rmd)
 (image) 
 
+### Quantiative Projects 
 
 ### Other Projects 
 
