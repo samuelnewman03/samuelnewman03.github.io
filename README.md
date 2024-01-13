@@ -1,1 +1,7 @@
-# samuelnewman03.github.io
+# Data Scientist | Education Policy 
+
+### Main Projects
+
+### Other Projects 
+
+### Writing Samples 
