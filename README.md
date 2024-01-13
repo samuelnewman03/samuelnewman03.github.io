@@ -8,6 +8,7 @@ Thematic analysis of survey data. Cleaned, analyized and visualized data (n=269)
 [Code](https://github.com/samuelnewman03/Portfolio-Projects/blob/main/Qualitative%20Project_Program%20Strengths.Rmd)
 
 ![Visual](/assets/Qualitative_Program Strengths.png) 
+![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Quantiative Projects 
 
